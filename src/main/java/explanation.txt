@@ -1,0 +1,1 @@
+I was stuck at phase 2 for quite a while; there was an annoying bug regarding NullPointer exceptions. It was really hard to debug and find the bug, but everything is fine after the bugs are handled.
